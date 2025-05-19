@@ -1,0 +1,365 @@
+@font-face {
+  font-family: 'sspicon';
+  src:
+    url('../fonts/sspicon.ttf') format('truetype'),
+    url('../fonts/sspicon.woff') format('woff'),
+    url('../images/sspicon.svg#sspicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ssp-icon-"], [class*=" ssp-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sspicon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ssp-icon-bem-estar:before {
+  content: "\e96a";
+}
+.ssp-icon-questoes:before {
+  content: "\e900";
+}
+.ssp-icon-simulador:before {
+  content: "\e901";
+}
+.ssp-icon-texto-avulso:before {
+  content: "\e902";
+}
+.ssp-icon-tutorial:before {
+  content: "\e903";
+}
+.ssp-icon-administracao:before {
+  content: "\e904";
+}
+.ssp-icon-animacao:before {
+  content: "\e905";
+}
+.ssp-icon-apostila:before {
+  content: "\e906";
+}
+.ssp-icon-apresentacao:before {
+  content: "\e907";
+}
+.ssp-icon-arquitetura-e-design-de-interiores:before {
+  content: "\e908";
+}
+.ssp-icon-arte-e-cultura:before {
+  content: "\e909";
+}
+.ssp-icon-artigo:before {
+  content: "\e90a";
+}
+.ssp-icon-atendimento-ao-cliente:before {
+  content: "\e90b";
+}
+.ssp-icon-audio-e-video:before {
+  content: "\e90c";
+}
+.ssp-icon-audio:before {
+  content: "\e957";
+}
+.ssp-icon-aula-narrada:before {
+  content: "\e90d";
+}
+.ssp-icon-banco-de-dados:before {
+  content: "\e90e";
+}
+.ssp-icon-bebidas-e-servicos:before {
+  content: "\e90f";
+}
+.ssp-icon-beleza-e-estetica:before {
+  content: "\e910";
+  
+}
+.ssp-icon-cabelo-e-barbearia:before {
+  content: "\e911";
+  
+}
+.ssp-icon-caderno-de-exercicios:before {
+  content: "\e912";
+}
+.ssp-icon-capitulo-de-livro:before {
+  content: "\e913";
+}
+.ssp-icon-certificacoes-em-ti:before {
+  content: "\e914";
+}
+.ssp-icon-comercio-exterior:before {
+  content: "\e915";
+}
+.ssp-icon-computacao-grafica:before {
+  content: "\e916";
+  
+}
+.ssp-icon-comunicacao-e-marketing:before {
+  content: "\e917";
+}
+.ssp-icon-comunicacao-social:before {
+  content: "\e918";
+}
+.ssp-icon-condominio-limpeza-e-zeladoria:before {
+  content: "\e919";
+}
+.ssp-icon-confeitaria:before {
+  content: "\e965";
+}
+.ssp-icon-contabil-e-fiscal:before {
+  content: "\e91a";
+}
+.ssp-icon-costura-e-modelagem:before {
+  content: "\e91b";
+  
+}
+.ssp-icon-cozinha:before {
+  content: "\e91c";
+}
+.ssp-icon-criacao-e-producao-em-moda:before {
+  content: "\e91d";
+}
+.ssp-icon-criacao-para-web:before {
+  content: "\e91e";
+  
+}
+.ssp-icon-depilacao:before {
+  content: "\e91f";
+  
+}
+.ssp-icon-desenho-e-animacao:before {
+  content: "\e920";
+}
+.ssp-icon-desenvolvimento-social:before {
+  content: "\e921";
+}
+.ssp-icon-design-artes-e-arquitetura:before {
+  content: "\e922";
+}
+.ssp-icon-design-grafico-e-digital:before {
+  content: "\e923";
+}
+.ssp-icon-e-book:before {
+  content: "\e924";
+}
+.ssp-icon-educacao:before {
+  content: "\e925";
+}
+.ssp-icon-enfermagem:before {
+  content: "\e926";
+}
+.ssp-icon-espanhol:before {
+  content: "\e966";
+  
+}
+.ssp-icon-estetica:before {
+  content: "\e927";
+}
+.ssp-icon-eventos:before {
+  content: "\e928";
+}
+.ssp-icon-farmacia:before {
+  content: "\e929";
+}
+.ssp-icon-financas:before {
+  content: "\e92a";
+}
+.ssp-icon-fotografia:before {
+  content: "\e92b";
+}
+.ssp-icon-frances .path1:before {
+  content: "\e92c";
+}
+.ssp-icon-frances .path2:before {
+  content: "\e92d";
+  margin-left: -1em;
+}
+.ssp-icon-games:before {
+  content: "\e92e";
+}
+.ssp-icon-gastronomia-e-alimentacao:before {
+  content: "\e92f";
+}
+.ssp-icon-gestao-de-bares-e-restaurantes:before {
+  content: "\e930";
+  
+}
+.ssp-icon-gestao-de-pessoas-e-lideranca:before {
+  content: "\e931";
+}
+.ssp-icon-gestao-e-negocios:before {
+  content: "\e932";
+}
+.ssp-icon-gestao-em-saude:before {
+  content: "\e933";
+}
+.ssp-icon-gestao-em-ti:before {
+  content: "\e934";
+}
+.ssp-icon-hemoterapia-e-analises-clinicas:before {
+  content: "\e967";
+}
+.ssp-icon-hotelaria:before {
+  content: "\e935";
+}
+.ssp-icon-idiomas:before {
+  content: "\e936";
+}
+.ssp-icon-imagem:before {
+  content: "\e937";
+}
+.ssp-icon-infografico:before {
+  content: "\e938";
+}
+.ssp-icon-informatica-para-o-trabalho:before {
+  content: "\e939";
+}
+.ssp-icon-ingles:before {
+  content: "\e93a";
+}
+.ssp-icon-jogo:before {
+  content: "\e93b";
+}
+.ssp-icon-lazer-e-recreacao:before {
+  content: "\e93c";
+}
+.ssp-icon-libras:before {
+  content: "\e93d";
+}
+.ssp-icon-logistica:before {
+  content: "\e93e";
+}
+.ssp-icon-manutencao-e-montagem:before {
+  content: "\e93f";
+}
+.ssp-icon-maquiagem .path1:before {
+  content: "\e940";
+}
+.ssp-icon-maquiagem .path2:before {
+  content: "\e941";
+  margin-left: -1.0712890625em;
+}
+.ssp-icon-maquiagem .path3:before {
+  content: "\e942";
+  margin-left: -1.0712890625em;
+}
+.ssp-icon-maquiagem .path4:before {
+  content: "\e943";
+  margin-left: -1.0712890625em;
+}
+.ssp-icon-maquiagem .path5:before {
+  content: "\e944";
+  margin-left: -1.0712890625em;
+}
+.ssp-icon-marketing:before {
+  content: "\e945";
+}
+.ssp-icon-massoterapia-e-terapias-complementares:before {
+  content: "\e946";
+  
+}
+.ssp-icon-materiais-gratuitos:before {
+  content: "\e947";
+}
+.ssp-icon-meio-ambiente-e-saude-e-seguranca-no-trabalho:before {
+  content: "\e948";
+  
+}
+.ssp-icon-meio-ambiente:before {
+  content: "\e949";
+}
+.ssp-icon-mobile:before {
+  content: "\e94a";
+}
+.ssp-icon-moda:before {
+  content: "\e94b";
+  
+}
+.ssp-icon-negocios-em-moda:before {
+  content: "\e94c";
+}
+.ssp-icon-nutricao:before {
+  content: "\e94d";
+}
+.ssp-icon-odontologia:before {
+  content: "\e94e";
+}
+.ssp-icon-optica:before {
+  content: "\e94f";
+}
+.ssp-icon-pagina-web:before {
+  content: "\e950";
+}
+.ssp-icon-paisagismo-e-jardinagem:before {
+  content: "\e951";
+}
+.ssp-icon-panificacao:before {
+  content: "\e968";
+}
+.ssp-icon-parte-de-apostila:before {
+  content: "\e952";
+}
+.ssp-icon-pes-e-maos:before {
+  content: "\e953";
+}
+.ssp-icon-podcast:before {
+  content: "\e954";
+}
+.ssp-icon-podologia:before {
+  content: "\e955";
+  
+}
+.ssp-icon-programacao-e-desenvolvimento:before {
+  content: "\e956";
+}
+.ssp-icon-quiz:before {
+  content: "\e958";
+}
+.ssp-icon-radialismo:before {
+  content: "\e959";
+}
+.ssp-icon-radiologia:before {
+  content: "\e95a";
+}
+.ssp-icon-redes-e-infraestrutura:before {
+  content: "\e95b";
+}
+.ssp-icon-saude-e-seguranca-no-trabalho:before {
+  content: "\e95c";
+}
+.ssp-icon-saude:before {
+  content: "\e95d";
+}
+.ssp-icon-secretaria:before {
+  content: "\e95e";
+}
+.ssp-icon-seguranca-da-informacao:before {
+  content: "\e969";
+}
+.ssp-icon-tecnologia-da-informacao:before {
+  content: "\e95f";
+  
+}
+.ssp-icon-turismo-e-hotelaria:before {
+  content: "\e960";
+}
+.ssp-icon-turismo:before {
+  content: "\e961";
+}
+.ssp-icon-vendas:before {
+  content: "\e962";
+}
+.ssp-icon-video:before {
+  content: "\e963";
+}
+.ssp-icon-visual-merchandising:before {
+  content: "\e964";
+}
